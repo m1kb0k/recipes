@@ -1,6 +1,6 @@
+# Yukgaejang
 
-
-
+## Broth
 Double server (soup only)
 
 * 20 cups of water
@@ -10,5 +10,7 @@ Double server (soup only)
 * 2 slightly larger than palm size kobu sheets
 
 1. put the konbu in the water while cold and start to boil the water
-2. once it starts to boil, remove the konbu
+once it starts to boil, remove the konbu
+
+## Yukgaejang
 
